@@ -71,6 +71,9 @@ Unit Testing: Testing individual components or modules of software.
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-
+Prompt engineering is all about crafting questions or statements to get the best possible responses from AI models. 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+For example, instead of saying 'Translate this,' you could say, 'Translate this English sentence to Spanish.'"
+
